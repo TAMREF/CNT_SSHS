@@ -7,7 +7,7 @@ CNT lectures in SSHS, Spring 2019
 - Inclusion - Exclusion Principle
 - Möbius function and Dirichlet Convolution
 
-[보충 자료](lec001_note1.pdf)
+[보충 자료](lec001/lec001_note1.pdf)
 
 - Xudyh's Sieve
 
