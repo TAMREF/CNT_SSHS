@@ -35,4 +35,8 @@ CNT lectures in SSHS, Spring 2019
 
 - Berlekamp algorithm
 
-선형대수 prerequisite [블로그 포스팅 : 기저의 개념](http://blog.naver.com/gdpresent/220594151975)
+선형대수 보충자료
+
+- [블로그 포스팅 #1 : 기저의 개념](http://blog.naver.com/gdpresent/220594151975)
+
+- [블로그 포스팅 #2 : Kernel, Image](http://blog.naver.com/gdpresent/220595032651)
