@@ -27,9 +27,7 @@ CNT lectures in SSHS, Spring 2019
 
 ## Lec 003 (5/7 Tue) : Solving eqns in Z_p
 
-- Tonelli - Shanks algorithm
-
-[보충 자료](https://rkm0959.tistory.com/20)
+- Tonelli - Shanks algorithm [rkm's posting](https://rkm0959.tistory.com/20)
 
 - Cantor - Zassenhaus algorithm
 
@@ -40,3 +38,5 @@ CNT lectures in SSHS, Spring 2019
 - [블로그 포스팅 #1 : 기저의 개념](http://blog.naver.com/gdpresent/220594151975)
 
 - [블로그 포스팅 #2 : Kernel, Image](http://blog.naver.com/gdpresent/220595032651)
+
+## Lec 004 (5/21 Tue) : Primality certificate
