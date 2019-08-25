@@ -40,3 +40,11 @@ CNT lectures in SSHS, Spring 2019
 - [블로그 포스팅 #2 : Kernel, Image](http://blog.naver.com/gdpresent/220595032651)
 
 ## Lec 004 (5/21 Tue) : Primality certificate
+
+- Pratt's theorem : Primality is 'verifiable'!
+
+- Solovay - Strassen algorithm
+
+- Miller - Rabin algorithm
+
+- AKS : Primality is 'P'!
